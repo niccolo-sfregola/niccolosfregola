@@ -40,7 +40,7 @@ Photonic reservoir computing model for forecasting swaption volatility surfaces.
 
 Link: [https://github.com/niccolo-sfregola/convolutional-photonic-reservoir]
 
-### Input Reduction for Scsalable Reinforcement Learning in Quantum Computing Noise Models
+### Input Reduction for Scalable Reinforcement Learning in Quantum Computing Noise Models
 My bachelor thesis on optimizing a PPO algorithm for quantum noise modeling and study of shot-dependence of performance.
 
 Link: [https://github.com/niccolo-sfregola/ppo-quantumnoise-input-reduction]
