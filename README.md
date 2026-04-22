@@ -1,7 +1,6 @@
 # Hi, I'm Niccolò Sfregola 👋
 
-Master’s student in Quantum Science and Technology at TUM and LMU Munich.  
-Research Assistant at Walther-Meißner-Institut, working on reinforcement learning for superconducting quantum processor readout optimization.
+Master’s student in Quantum Science and Technology at TUM and LMU Munich and Research Assistant at Walther-Meißner-Institut
 
 ## About Me
 
