@@ -41,7 +41,9 @@ Photonic reservoir computing model for forecasting swaption volatility surfaces.
 My bachelor thesis on optimizing a PPO algorithm for quantum noise modeling and study of shot-dependence of performance 
 
 ### Quantum Support Vector Classifier for Breast Cancer Detection
-Qiskit Fall Fest 2025 - Project
+Qiskit Fall Fest 2025 Project where I developed and trained a Qiskit-based Quantum SVM with a custom quantum feature map to classify
+the Breast Cancer dataset.
+
 
 ### Domain Adaptation Methods for Quantum Phase Transitions
 Individual research project in which I developed and trained an Adversarial Domain Adaptation (DANN) neural network to investigate
