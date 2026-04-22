@@ -45,6 +45,8 @@ My bachelor thesis on optimizing a PPO algorithm for quantum noise modeling and 
 Qiskit Fall Fest 2025 Project where I developed and trained a Qiskit-based Quantum SVM with a custom quantum feature map to classify
 the Breast Cancer dataset.
 
+Link: [https://github.com/niccolo-sfregola/qsvm-breast-cancer]
+
 
 ### Domain Adaptation Methods for Quantum Phase Transitions
 Individual research project in which I developed and trained an Adversarial Domain Adaptation (DANN) neural network to investigate
