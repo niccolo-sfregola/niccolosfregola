@@ -30,10 +30,10 @@ In parallel, I am also interested in Quantum Machine Learning and quantum-enhanc
 
 ## Featured Projects
 
-### Reinforcement Learning for Quantum Readout (Work in Progress - Repository not released yet)
+### Reinforcement Learning for Quantum Readout (Work in Progress)
 Optimization of multiplexed superconducting qubit readout using PPO and custom simulation environments.
 
-Link: [https://github.com/niccolo-sfregola/rl-superconducting-qubit-readout]
+Link: **Repository not released yet**
 
 ### Convolutional Photonic Reservoir for Financial Swaption Surface Forecast
 Photonic reservoir computing model for forecasting swaption volatility surfaces. Winner project of Quandela's Challenge at the PushQuantum Hackathon 2025.
