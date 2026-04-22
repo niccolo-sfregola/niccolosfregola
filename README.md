@@ -35,7 +35,9 @@ In parallel, I am also interested in Quantum Machine Learning and quantum-enhanc
 Optimization of multiplexed superconducting qubit readout using PPO and custom simulation environments.
 
 ### Convolutional Photonic Reservoir for Financial Swaption Surface Forecast
-Photonic reservoir computing model for forecasting swaption volatility surfaces. Winner project of Quandela's Challenge at the PushQuantum Hackathon 2025
+Photonic reservoir computing model for forecasting swaption volatility surfaces. Winner project of Quandela's Challenge at the PushQuantum Hackathon 2025.
+
+Link: [https://github.com/niccolo-sfregola/convolutional-photonic-reservoir]
 
 ### Input Reduction for Scsalable Reinforcement Learning in Quantum Computing Noise Models
 My bachelor thesis on optimizing a PPO algorithm for quantum noise modeling and study of shot-dependence of performance 
