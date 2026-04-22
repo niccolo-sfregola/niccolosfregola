@@ -30,7 +30,7 @@ In parallel, I am also interested in Quantum Machine Learning and quantum-enhanc
 
 ## Featured Projects
 
-### Reinforcement Learning for Quantum Readout (Work in Progress)
+### Reinforcement Learning for Quantum Readout (Work in Progress - Repository not released yet)
 Optimization of multiplexed superconducting qubit readout using PPO and custom simulation environments.
 
 Link: [https://github.com/niccolo-sfregola/rl-superconducting-qubit-readout]
