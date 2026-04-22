@@ -52,7 +52,3 @@ quantum phase transitions in 2D Ising models subjected to random magnetic fields
 
 - LinkedIn: [https://www.linkedin.com/in/niccolo-sfregola/]
 - Email: [niccolo.sfregola03@gmail.com]
-
----
-
-Always curious to learn, build, and contribute to impactful technologies.
