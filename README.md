@@ -52,6 +52,8 @@ Link: [https://github.com/niccolo-sfregola/qsvm-breast-cancer]
 Individual research project in which I developed and trained an Adversarial Domain Adaptation (DANN) neural network to investigate
 quantum phase transitions in 2D Ising models subjected to random magnetic fields.
 
+Link: [https://github.com/niccolo-sfregola/dann-phase-transition]
+
 
 ## Connect With Me
 
