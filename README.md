@@ -39,7 +39,9 @@ Photonic reservoir computing model for forecasting swaption volatility surfaces.
 Link: [https://github.com/niccolo-sfregola/convolutional-photonic-reservoir]
 
 ### Input Reduction for Scsalable Reinforcement Learning in Quantum Computing Noise Models
-My bachelor thesis on optimizing a PPO algorithm for quantum noise modeling and study of shot-dependence of performance 
+My bachelor thesis on optimizing a PPO algorithm for quantum noise modeling and study of shot-dependence of performance.
+
+Link: [https://github.com/niccolo-sfregola/ppo-quantumnoise-input-reduction]
 
 ### Quantum Support Vector Classifier for Breast Cancer Detection
 Qiskit Fall Fest 2025 Project where I developed and trained a Qiskit-based Quantum SVM with a custom quantum feature map to classify
