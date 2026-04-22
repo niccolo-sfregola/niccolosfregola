@@ -31,12 +31,7 @@ In parallel, I am also interested in Quantum Machine Learning and quantum-enhanc
 ## Featured Projects
 
 ### Reinforcement Learning for Quantum Readout (Work in Progress)
-Optimization of multiplexed superconducting qubit readout using PPO and custom simulation environments. 
-
-PPO training
-Custom Gymnasium environments
-Multiplexed readout simulation
-Reward design based on fidelity
+Optimization of multiplexed superconducting qubit readout using PPO and custom simulation environments. Working on PPO training, building Custom Gymnasium environment, setting up Multiplexed readout simulation and reward design.
 
 Link: **Repository not released yet**
 
