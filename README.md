@@ -30,6 +30,11 @@ In parallel, I am also interested in Quantum Machine Learning and quantum-enhanc
 
 ## Featured Projects
 
+### Quantum-Enhanced DDoS Anomaly Detection
+Hybrid quantum-classical framework for supervised and unsupervised DDoS anomaly detection using quantum reservoir computing, density-matrix representations, and trace-distance-based scoring. Developed during the QCentroid × GSMA Challenge at the ETH Quantum Hackathon 2026, where the project won 1st place.
+
+Link: [https://github.com/niccolo-sfregola/quantum-anomalydetection-ddos]
+
 ### Reinforcement Learning for Quantum Readout (Work in Progress)
 Optimization of multiplexed superconducting qubit readout using PPO and custom simulation environments. Working on PPO training, building Custom Gymnasium environment, setting up Multiplexed readout simulation and reward design.
 
